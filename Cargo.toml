@@ -1,7 +1,7 @@
 [package]
 name = "dictionary2"
 description = "A full dictionary of all the words in the English language."
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 author = "Jay Jackson (TheBotlyNoob) <jj@jj.is-a.dev>"
 license = "MIT"
